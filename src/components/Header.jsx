@@ -7,14 +7,14 @@ export default function Header({countData}) {
       <div className=" gap-6 flex flex-row">
         <div className="flex flex-row items-center gap-4">
           <img
-            src="/public/assets/icons/search.png"
+            src="/assets/icons/search.png"
             alt="search-icon"
             className="w-7 h-7 cursor-pointer"
           />
         </div>
         <div className="flex flex-row items-center gap-2 relative">
           <img
-            src="/public/assets/icons/cart.png"
+            src="/assets/icons/cart.png"
             alt="cart-icon"
             className="w-7 h-7"
           />
